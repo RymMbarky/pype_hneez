@@ -1,3 +1,5 @@
+
+BUILD: ![Java CI with Maven](https://github.com/RymMbarky/pype_hneez/workflows/Java%20CI%20with%20Maven/badge.svg)
 # pypeHneez
 
 This application was generated using JHipster 6.8.0, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v6.8.0](https://www.jhipster.tech/documentation-archive/v6.8.0).
