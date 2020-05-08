@@ -1,0 +1,11 @@
+version: '2'
+services:
+  pypehneez-postgresql:
+    image: postgres:12.1
+    # volumes:
+    #     - ~/volumes/jhipster/pypeHneez/postgresql/:/var/lib/postgresql/data/
+    environment:
+      - POSTGRES_USER=pypeHneez
+      - POSTGRES_PASSWORD=
+    ports:
+      - 5432:5432
